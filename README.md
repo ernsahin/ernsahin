@@ -1,5 +1,8 @@
 # Hi there, I'm Eren Şahin 👋
 
+# My Portfolio
+# [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://eren-sahin-portfolio.vercel.app)
+
 ## 👨‍💻 About Me
 
 24-year-old MIS graduate with experience in data analysis and mobile development. Strong analytical background from 50+ blockchain analytics projects. Currently focusing on AI tools integration and learning Python & AI/ML. Passionate about leveraging AI tools like Claude Code and Gemini CLI to enhance development productivity and workflows.
@@ -24,7 +27,7 @@
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ## 🌐 Socials:
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://eren-sahin-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ernsahin)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aeren-sahin/)
 
