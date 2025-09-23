@@ -9,6 +9,7 @@
 
 ## 🚀 Top Projects
 
+[![Learn-Git-Game](https://github-readme-stats.vercel.app/api/pin/?username=ernsahin&repo=git-master-game&theme=dark)](https://github.com/ernsahin/git-master-game)
 [![Staj-Takip-Sistemi](https://github-readme-stats.vercel.app/api/pin/?username=ernsahin&repo=Staj-Takip-Sistemi&theme=dark)](https://github.com/ernsahin/Staj-Takip-Sistemi)
 [![Csfloat-Trades](https://github-readme-stats.vercel.app/api/pin/?username=ernsahin&repo=Csfloat-Trades&theme=dark)](https://github.com/ernsahin/Csfloat-Trades)
 
