@@ -11,10 +11,36 @@
 
 ##  Top Projects
 
-[![Learn-Git-Game](https://github-readme-stats.vercel.app/api/pin/?username=ernsahin&repo=git-master-game&theme=dark)](https://github.com/ernsahin/git-master-game)
-[![Staj-Takip-Sistemi](https://github-readme-stats.vercel.app/api/pin/?username=ernsahin&repo=Staj-Takip-Sistemi&theme=dark)](https://github.com/ernsahin/Staj-Takip-Sistemi)
-[![Extension Tab Manager](https://github-readme-stats.vercel.app/api/pin/?username=ernsahin&repo=tab-manager&theme=dark)](https://github.com/ernsahin/tab-manager)
-[![Csfloat-Trades](https://github-readme-stats.vercel.app/api/pin/?username=ernsahin&repo=Csfloat-Trades&theme=dark)](https://github.com/ernsahin/Csfloat-Trades)
+## 🚀 Top Projects
+
+<p align="center">
+  <a href="https://github.com/ernsahin/git-master-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ernsahin&repo=git-master-game&title_color=f1502f&text_color=f1502f&icon_color=f1502f&bg_color=0d1117&border_color=f1502f" />
+  </a>
+
+  <p align="center">
+  <a href="https://github.com/ernsahin/Boxxyball">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ernsahin&repo=Boxxyball&title_color=3a2f2a&text_color=4a4038&icon_color=f0b23e&bg_color=f6ebda&border_color=e6d8c2" />
+  </a>
+</p>
+  
+</p>
+
+<p align="center">
+  <a href="https://github.com/ernsahin/tab-manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ernsahin&repo=tab-manager&title_color=9b59b6&text_color=9b59b6&icon_color=9b59b6&bg_color=0d1117&border_color=9b59b6" />
+  </a>
+  <a href="https://github.com/ernsahin/Csfloat-Trades">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ernsahin&repo=Csfloat-Trades&title_color=3498db&text_color=3498db&icon_color=3498db&bg_color=0d1117&border_color=3498db" />
+  </a>
+</p>
+
+<p align="center">
+   <a href="https://github.com/ernsahin/Staj-Takip-Sistemi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ernsahin&repo=Staj-Takip-Sistemi&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0d1117&border_color=ffffff" />
+  </a>
+</p>
+
 
 ##  Languages and Tools:
 
